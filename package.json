@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/trlanfeng/TrackBlog4-hexo-import#readme",
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "eslint": "^6.5.1",
     "front-matter": "^3.0.2"
   }
